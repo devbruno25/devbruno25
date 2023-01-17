@@ -6,8 +6,8 @@
 
 <!-- STATOS -->
 <div align="center" valign="top">  
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api?username=devbruno25&show_icons=true&theme=blue-green" alt="Bruno Azevedo github stats"/> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devbruno25&theme=blue-green&layout=compact"/> 
+  <img width="50%" height="200px" src="https://github-readme-stats.vercel.app/api?username=devbruno25&show_icons=true&theme=blue-green" alt="Bruno Azevedo github stats"/> 
+  <img width="50%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devbruno25&theme=blue-green&layout=compact"/> 
 </div><br><br>
 
 <!-- CONTRIBUIÇÃO -->
