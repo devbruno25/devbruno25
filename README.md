@@ -2,7 +2,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
 
 <!-- EFEIRO MAQUINA DE ESCREVER -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+NAME+is+BRUNO+AZEVEDO+;I'm+37+years+old;I+from+Niteroi,+RJ;I'm+a+Front-end+developer.;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+NAME+is+BRUNO+AZEVEDO+;I'm+40+years+old;I+from+Niteroi,+RJ;I'm+a+Front-end+developer.;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <!-- STATOS -->
 <div align="center" valign="top">  
