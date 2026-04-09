@@ -24,12 +24,6 @@
   <img align="center" alt="linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"> -->
 </div><br><br>
 
-<h2 align="center"> Contatos e redes sociais. </h2>
-<hr>
-
-<!-- LINKS REDES SOCIAIS -->
-
-
 
 <!-- ANIMAÇÃO FOOTER -->
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
