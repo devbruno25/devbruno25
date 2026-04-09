@@ -1,14 +1,9 @@
 <!-- ANIMAÇÃO READER -->
-
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
 
 <!-- EFEIRO MAQUINA DE ESCREVER -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+NAME+is+BRUNO+AZEVEDO+;I'm+40+years+old;I+from+Niteroi,+RJ;I'm+a+Front-end+developer.;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-<!-- STATOS -->
-<div align="center" valign="top">  
-  <img width="500px" height="195px" src="https://github-readme-stats.vercel.app/api?username=devbruno25&show_icons=true&theme=blue-green" alt="Bruno Azevedo github stats"/> 
-  <img width="500px" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devbruno25&theme=blue-green&layout=compact"/> 
-</div><br><br>
 
 
 <h2 align="center"> Tecnologias que eu utilizo. </h2>
@@ -33,6 +28,11 @@
 <hr>
 
 <!-- LINKS REDES SOCIAIS -->
+
+<!-- CREDITOS -->
+<div align="center">
+  <p>Créditos: <a href="https://github.com/anuraghazra/github-readme-stats">Anurag Hazra</a> e <a href="https://github.com/rafaballerini">Rafaella Ballerini</a></p>
+</div>
 
 <!-- ANIMAÇÃO FOOTER -->
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
