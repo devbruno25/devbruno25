@@ -10,12 +10,6 @@
   <img width="500px" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devbruno25&theme=blue-green&layout=compact"/> 
 </div><br><br>
 
-<!-- CONTRIBUIÇÃO -->
-<h2 align="center">Contribuição</h2> <hr>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=devbruno25&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-</p><br>
 
 <h2 align="center"> Tecnologias que eu utilizo. </h2>
 <hr>
@@ -39,23 +33,6 @@
 <hr>
 
 <!-- LINKS REDES SOCIAIS -->
-<div align="center">
-  <a href="mailto:brunogtx8@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/bruno-azevedo-0a92a812b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://www.instagram.com/bruno.sistem/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"a>
-  <!-- <a href="https://www.youtube.com/channel/UCViaNBT0SIeiVnZSEEtIfjw?sub_confirmation=1" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a> -->
-  <!-- <a href="https://www.instagram.com/edu.duduribeiro/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> -->
-</div><br>
-
-<!-- GRAFICO DE ATIVIDADES NO GITHUB -->
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=devbruno25&bg_color=040E0E&color=25799C&line=09D665&point=997505&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-<!-- CONTAGEM DE VISITANTES -->
-<div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{devbruno25}/count.svg" /></p> 
-<br></div>
 
 <!-- CREDITOS -->
 <div align="center">
