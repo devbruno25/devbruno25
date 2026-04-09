@@ -29,10 +29,7 @@
 
 <!-- LINKS REDES SOCIAIS -->
 
-<!-- CREDITOS -->
-<div align="center">
-  <p>Créditos: <a href="https://github.com/anuraghazra/github-readme-stats">Anurag Hazra</a> e <a href="https://github.com/rafaballerini">Rafaella Ballerini</a></p>
-</div>
+
 
 <!-- ANIMAÇÃO FOOTER -->
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
